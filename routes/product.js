@@ -2,6 +2,7 @@ const router = require("express").Router();
 const { Product } = require("../models/product");
 const verifyAction = require("../middleware/verifyToken");
 const cloudinary = require("../utitils/cloudinary");
+const { includes } = require("lodash");
 // const bcrypt = require("bcrypt");
 router.get("/:id", async (req, res) => {
   try {
@@ -16,6 +17,17 @@ router.get("/", async (req, res) => {
   try {
     const product = await Product.find({});
     res.send(product);
+  } catch (error) {
+    console.log(error);
+    res.status(500).send({ message: "Internal Server Error" });
+  }
+});
+router.post("/search", async (req, res) => {
+  try {
+    const search = req.body.search;
+    const product = await Product.find({ name: { $regex: search } });
+    console.log(product);
+    res.status(200).send({ message: "sucess", product });
   } catch (error) {
     console.log(error);
     res.status(500).send({ message: "Internal Server Error" });
