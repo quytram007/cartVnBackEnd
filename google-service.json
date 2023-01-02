@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seraphic-hawk-373213",
+  "private_key_id": "000d433d120a05160b7e556cad1f9973a80db5a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCb2tXrZmWQ0v48\n72d2RMWbCn9jSzy+qG87NoU0D8aWyS7N2swNNnn3GwhixW3FWKFtda1+SEk9u2+H\noEcroYOvGAotRcAYpY+0Ig1lW5FkOuY7ZxtyG11wdf96E7O9ZYEXV/Z0YGryciWX\nLRiL1c/LhNry5pECrcZPE9ogweZStqr97IG6amBmhfSJ1hAknwNhAKMhAjcmPczm\nCXc9CCTUhCjq+cXXpzHfEUUCTsa3rqyokCAKiigSka6RhRD6kPwewIsDH8yBQovr\ntsHl95lS9bPMeo3tGpVyP/KYCXK9R06/OUyYdNTFYflLlzH+fCL33fgHnB13VzU7\nwTk7Dk9LAgMBAAECggEAJfaOj+nfyICUfAxGk9jZl1PdxrZvY/OMMIytsoo7McRs\neakXdgp0d/vmNYTooZ7ep1Z4PZ/m8zoCRzOD0n1joZVF+VQZoAdH8zUuNSeySQtN\nxF9voIJI5tlfMwG0kOg2IxUCi8NmmYqzXFkYNwuMM4M3f94oqVHh0aZAxiTk8PV7\nLhyI0Ekx4QYC/8ImSAVAXMq1p4kDwAmO8ar93A9VUhWsWxHnEzldGvdxKCsRR+gF\nHNJqgc5tswCYuvNQb4TNnnNiRLhmAhNycnY/da8aILoZUv9wDOxfE4Sp9Xa7prq3\nTCVH6TI3agA4yOZXptLp1xn8wHBRxDsYzrge12T4eQKBgQDWqTR5LE5HjhbiFdH1\n9pUPLlod7aT5LsfPm9s+efSTWtGwNdH9O6tmVWFT1dxma0QxVbJzIahHLnQXyJB/\nO70ZQmWLApaH1vBbJmblLggfCdFAiPj0kHS4iuKxQELrcyJeSZoCWiBeKzVhLyLv\nA+Su9EQIcIv8kNcU99CEIIkKMwKBgQC53nxYsVunyLY1wuvxSKi52RndQvke/8l1\nywT9wSxKYvMJJzxKxrbK2dp4GHxT4vh4JqcQyjzKLzO/ceqEJinhUTKuNr7FR3TM\nDfBC55psM0foBDjAiqBEIg3oFtcd0U+OW54eUdQQiryfRw2kiOYyvKZ0bikaKgpu\n1OFLmUK+iQKBgC7Z/3nzEaLMgHIYERt+FkqZ81FU7Qz2COZnPhMEyzzeNaYgGRUM\nUPyk5flGVDSGdPvPmINIdVIT8YK/Y8phX4SD2WXdyr0bTJqYZxzeTyd3HRTY0H2Q\niek9Zv0I6ZI6LuYlalfZE/d5tszfXOCOGPuWlMLCzcryUf9hl0E/WKnBAoGAVZid\nQSckY4duSiHjEHH6qePOInRmT51SRLnjKY0dfYBGFlAIVxNeONrM3oPANc2PyZ1b\nUMMh7aaBOUgXzRXaMZZ4NXymrCl1I0fD/ru0BOI02iefjyQIHHhmWRyzolqzPYb5\nsVLTy25o4R0SrlQRVwpDydi1ewQjW9kTjAIfl6kCgYEAjOhId6lQV/oAjIu093Gr\nTzAWcJGk1ub3c6hdZKKayY3eFIv1IIne63+O/zAIQFz3/xgPTzktyA6zgO3wzfFS\nEpeabc2/hhIHFB9FpAy3qYdv9q6jP37hialuBK7J6zpcxdj6FbXzdD2QXX49H/Kd\n3wPagiEPtKzYxL46Wvv2ehI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ttquydev-gmail-com@seraphic-hawk-373213.iam.gserviceaccount.com",
+  "client_id": "100169212503402697941",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ttquydev-gmail-com%40seraphic-hawk-373213.iam.gserviceaccount.com"
+}

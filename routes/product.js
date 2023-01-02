@@ -25,7 +25,9 @@ router.get("/", async (req, res) => {
 router.post("/search", async (req, res) => {
   try {
     const search = req.body.search;
-    const product = await Product.find({ name: { $regex: search } });
+    const product = await Product.find({
+      name_lower: { $regex: search.toLowerCase() },
+    });
     console.log(product);
     res.status(200).send({ message: "sucess", product });
   } catch (error) {
